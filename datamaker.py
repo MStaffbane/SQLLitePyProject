@@ -1,5 +1,29 @@
 import sqlite3
 
+def create():
+    conn = sqlite3.connect('people.db')
+    c = conn.cursor()
+
+    c.execute("DROP TABLE person")
+
+    c.execute("""CREATE TABLE person (
+            first_name text,
+            last_name  text,
+            email      text
+        )""")
+
+    people = [
+                        ('Mark', 'Warren', 'mark@warren.com'),
+                        ('Womble', 'Warren', 'womble@warren.com'),
+                        ('Jake', 'Creed', 'jake@creed.com'),
+                        ('Tom', 'Little', 'tom@little.com'),
+                        ('Nancy', 'Drew', 'nancy@drew.com'),
+                     ]
+    c.executemany("INSERT INTO person VALUES (?,?,?)", people)
+
+    conn.commit()
+
+    conn.close()
 
 def show_all():
    
