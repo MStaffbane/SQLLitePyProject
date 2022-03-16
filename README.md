@@ -2,7 +2,7 @@
 My First Working Prototype using a combination of SQL and Python
 
 # Preview
-![image](https://user-images.githubusercontent.com/42208427/158577171-47cb55c8-cd50-4072-92e9-9c8197aafac2.png)
+![image](https://user-images.githubusercontent.com/42208427/158633415-c1992c54-71a4-437d-a18c-fff1384e22af.png)
 
 # Preview Video
 (Coming Soon)
@@ -18,6 +18,15 @@ The SQLLitePyProject is a short simple Python Program which allows you to view, 
 - [Features](#Features)
 
 ### First Time Running Instructions
+
+Simply run Command 6:
+
+![image](https://user-images.githubusercontent.com/42208427/158633701-7222b7d7-1420-4890-a1d1-6e9f2c33a973.png)
+
+This will then prompt you:
+![image](https://user-images.githubusercontent.com/42208427/158633908-ad62a8e6-9143-4038-8373-c9e88f49ee32.png)
+
+Simply enter yes and the data will be reset or created for first time use (If at anytime you wish to reset to default values just follow this section again)
 
 ### Tutorial
 
@@ -35,4 +44,5 @@ Note: A first time run is required before use of this program - if this has been
   - By Last Name
   - By Email
 - Allows User to ammend a Record
+- Allows User to Reset or Create the Database
 - Exits the Program
