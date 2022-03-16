@@ -17,7 +17,7 @@ def options():
     while Option == 0:
         try:
             Option = int(input("Enter a option from the above:"))
-            if Option < 1 or Option > 6:
+            if Option < 1 or Option > 7:
                 raise Exception
         except Exception:
             clearpage()
@@ -48,7 +48,36 @@ def options():
                 selectammendmenu()
 
             elif Option == 6:
+                ask()
+                yesno()
+
+            elif Option == 7:
                 sys.exit()
+
+def ask():
+    clearpage()
+    print("Are you sure you wish to Create or Reset to default values in table database?")
+    print("{:<10}".format("Y - Yes"), "{:<10}".format("N - No"))
+
+def yesno():
+    yn = None
+    while yn not in ("yes", "no", "y", "n"):
+        try:
+            yn = str(input("Enter a option from the above:"))
+            if yn.lower() not in ("yes", "no", "y", "n"):
+                raise Exception
+        except Exception:
+            clearpage()
+            print("Invalid Entered Choice. Choose from the available Options below.")
+            yn = None
+            ask()
+        else:
+            if yn.lower() == "yes" or yn.lower() == "y":
+                datamaker.create()
+                print("Data has been reset/created.")
+                backtomainmenu()
+            elif yn.lower() == "no" or yn.lower() == "n":
+                backtomainmenu()
 
 def lookmenu():
     clearpage()
@@ -137,7 +166,8 @@ def menu():
     print ("3. Delete Record")
     print ("4. Find Record")
     print ("5. Ammend Record")
-    print ("6. Exit Menu")
+    print ("6. Create/Reset Records")
+    print ("7. Exit Program")
 
 def backtomainmenu():
     input("Enter anything to continue...")
