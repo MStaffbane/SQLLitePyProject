@@ -28,14 +28,17 @@ def options():
         else:
 
             if Option == 1:
+                clearpage()
                 datamaker.show_all()
                 backtomainmenu()
 
             elif Option == 2:
+                clearpage()
                 datamaker.record(firstname(), lastname(), email())
                 backtomainmenu()
 
             elif Option == 3:
+                clearpage()
                 datamaker.delete_record(enterid())
                 backtomainmenu()
 
