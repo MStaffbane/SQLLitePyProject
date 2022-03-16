@@ -230,4 +230,5 @@ def enterid():
         except ValueError:
             print("The ID must be a valid number, an ID can not exceed 999.")
 
+clearpage()
 options()
