@@ -1,12 +1,6 @@
 # SQLLitePyProject
 My First Working Prototype using a combination of SQL and Python
 
-# Preview
-![image](https://user-images.githubusercontent.com/42208427/158641965-20c6db41-4247-4cb5-b1a5-72ea08565b5b.png)
-
-# Preview Video
-https://user-images.githubusercontent.com/42208427/158829214-d88e7c04-11c0-4694-b56d-38c73e844006.mp4
-
 ## Description
 
 The SQLLitePyProject is a short simple Python Program which allows you to view, edit and delete rows from a basic database using sqllite. 
@@ -16,6 +10,13 @@ The SQLLitePyProject is a short simple Python Program which allows you to view, 
 - [First Time Running Instructions](#First-Time-Running-Instructions)
 - [Tutorial/Screenshots](#Tutorial/Screenshots)
 - [Features](#Features)
+- [Preview Video](#Preview-Video)
+
+# Preview
+![image](https://user-images.githubusercontent.com/42208427/158641965-20c6db41-4247-4cb5-b1a5-72ea08565b5b.png)
+
+# Preview Video
+https://user-images.githubusercontent.com/42208427/158829214-d88e7c04-11c0-4694-b56d-38c73e844006.mp4
 
 ### First Time Running Instructions
 
