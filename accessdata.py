@@ -109,7 +109,7 @@ def selectammendmenu():
         except Exception:
             clearpage()
             print("Invalid Entered Choice. Choose from the available Options below.")
-            menu()
+            ammendmenu()
             AmOption = 0
 
         else:
@@ -144,7 +144,7 @@ def selectlookmenu():
         except Exception:
             clearpage()
             print("Invalid Entered Choice. Choose from the available Options below.")
-            menu()
+            lookmenu()
             LookOption = 0
 
         else:
