@@ -55,6 +55,7 @@ def options():
                 yesno()
 
             elif Option == 7:
+                clearpage()
                 sys.exit()
 
 def ask():
