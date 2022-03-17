@@ -8,7 +8,7 @@ The SQLLitePyProject is a short simple Python Program which allows you to view, 
 ## Contents
 
 - [First Time Running Instructions](#First-Time-Running-Instructions)
-- [Tutorial/Screenshots](#Tutorial-and-Screenshots)
+- [Tutorial and Screenshots](#Tutorial-and-Screenshots)
 - [Features](#Features)
 - [Preview Video](#Preview-Video)
 
