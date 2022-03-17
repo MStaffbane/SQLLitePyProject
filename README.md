@@ -8,7 +8,7 @@ The SQLLitePyProject is a short simple Python Program which allows you to view, 
 ## Contents
 
 - [First Time Running Instructions](#First-Time-Running-Instructions)
-- [Tutorial/Screenshots](#Tutorial/Screenshots)
+- [Tutorial/Screenshots](#Tutorial-and-Screenshots)
 - [Features](#Features)
 - [Preview Video](#Preview-Video)
 
@@ -29,7 +29,7 @@ This will then prompt you:
 
 Simply enter yes and the data will be reset or created for first time use (If at anytime you wish to reset to default values just follow this section again)
 
-### Tutorial/Screenshots
+### Tutorial and Screenshots
 
 Simply follow on screen prompts included within the program (e.g. Enter 1 to show all records)
 
