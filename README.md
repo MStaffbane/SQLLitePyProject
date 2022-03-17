@@ -5,7 +5,7 @@ My First Working Prototype using a combination of SQL and Python
 ![image](https://user-images.githubusercontent.com/42208427/158641965-20c6db41-4247-4cb5-b1a5-72ea08565b5b.png)
 
 # Preview Video
-(Coming Soon)
+https://user-images.githubusercontent.com/42208427/158822663-d55eba5d-bbcb-47e0-b904-4d53c5549419.mp4
 
 ## Description
 
