@@ -4,6 +4,7 @@ My First Working Prototype using a combination of SQL and Python
 ## Description
 
 The SQLLitePyProject is a short simple Python Program which allows you to view, edit and delete rows from a basic database using sqllite. 
+This shall also recreate the data in order to show that not only is the data easy to store, but also maintain if something went wrong.
 
 ## Contents
 
