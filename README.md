@@ -80,12 +80,15 @@ Note: A first time run is required before use of this program - if this has been
 ### Features:
 - Displays Database Records
 - Allows User to add own Record
-- Allows User to delete a Record
+- Allows User to delete a Record (By ID only)
 - Search Feature
   - By ID
   - By First Name
   - By Last Name
   - By Email
 - Allows User to ammend a Record
+  - By First Name
+  - By Last Name
+  - By Email
 - Allows User to Reset or Create the Database
 - Exits the Program
