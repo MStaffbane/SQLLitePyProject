@@ -31,6 +31,7 @@ A deployed version (for non-programmers) of this could be looked at at a later d
 
 - Minor Clear Screen issues (Screen clears to be optimised to clear only at appropriate times)
 - Video could be re-recorded and test cases more carefully used
+- Questionable if SQLlite is required or not for use.
 
 #### Possible Improvements
 
