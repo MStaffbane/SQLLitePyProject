@@ -5,6 +5,7 @@ My First Working Prototype using a combination of SQL and Python
 
 The SQLLitePyProject is a short simple Python Program which allows you to view, edit and delete rows from a basic database using sqllite. 
 This shall also recreate the data in order to show that not only is the data easy to store, but also maintain if something went wrong.
+Note: Your data will be stored locally.
 
 ## Contents
 
@@ -12,12 +13,33 @@ This shall also recreate the data in order to show that not only is the data eas
 - [Tutorial and Screenshots](#Tutorial-and-Screenshots)
 - [Features](#Features)
 - [Preview Video](#Preview-Video)
+- [Bugs and Fixes](#Bugs-and-Fixes)
 
 # Preview
 ![image](https://user-images.githubusercontent.com/42208427/158641965-20c6db41-4247-4cb5-b1a5-72ea08565b5b.png)
 
 # Preview Video
 https://user-images.githubusercontent.com/42208427/158829214-d88e7c04-11c0-4694-b56d-38c73e844006.mp4
+
+### Bugs and Fixes
+
+As of 19th of March 2022: some bug fixes are to be patched... I will look into the compatibility and portability of this project and will patch this in a later version, but for now it seems functional I will look at if a person requires SQLlite to be installed or not in order to verify the program is functioning as it should.
+
+#### Known Bugs
+
+- Minor Clear Screen issues (Screen clears to be optimised to clear only at appropriate times)
+- Video could be re-recorded and test cases more carefully used
+
+#### Possible Improvements
+
+- Coloured Error Prompts (A Pale Red Font if possible)
+- Clear message prompts if 5 errors in a row have occured... although this could improve software friendlyness it could be hard to implement
+
+#### Fixes
+- Better User Interface Responsiveness
+- Message Menus appear correctly (clearing the main menu so as not to have redeundancy)
+- Minor SQL syntax errors
+- Care has been taken to make sure the command calls are sequenced correctly in code
 
 ### First Time Running Instructions
 
