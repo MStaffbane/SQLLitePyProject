@@ -25,6 +25,8 @@ https://user-images.githubusercontent.com/42208427/158829214-d88e7c04-11c0-4694-
 
 As of 19th of March 2022: some bug fixes are to be patched... I will look into the compatibility and portability of this project and will patch this in a later version, but for now it seems functional I will look at if a person requires SQLlite to be installed or not in order to verify the program is functioning as it should.
 
+A deployed version (for non-programmers) of this could be looked at at a later date.
+
 #### Known Bugs
 
 - Minor Clear Screen issues (Screen clears to be optimised to clear only at appropriate times)
