@@ -40,7 +40,7 @@ A deployed version (for non-programmers) of this could be looked at at a later d
 
 #### Fixes
 - Better User Interface Responsiveness
-- Message Menus appear correctly (clearing the main menu so as not to have redeundancy)
+- Message Menus appear correctly (clearing the main menu so as not to have redundancy)
 - Minor SQL syntax errors
 - Care has been taken to make sure the command calls are sequenced correctly in code
 
