@@ -92,3 +92,5 @@ Note: A first time run is required before use of this program - if this has been
   - By Email
 - Allows User to Reset or Create the Database
 - Exits the Program
+
+[Back to Top](#SQLLitePyProject)
