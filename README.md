@@ -17,8 +17,6 @@ Their referred url link to their github:
 
 https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course
 
-A link to their project 
-
 A handy piece of code for clearing the screen provided by Grepper (credit to Expensive Eagle): 
 
 https://www.codegrepper.com/code-examples/python/python+os.system+clear+screen
