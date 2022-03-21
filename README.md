@@ -7,6 +7,11 @@ The SQLLitePyProject is a short simple Python Program which allows you to view, 
 This shall also recreate the data in order to show that not only is the data easy to store, but also maintain if something went wrong.
 Note: Your data will be stored locally.
 
+## Sources
+
+Code was adapted from the tutorial provided by freeCodeCamp.org: https://www.youtube.com/watch?v=byHcYRpMgI4
+A handy piece of code for clearing the screen was found here: https://www.codegrepper.com/code-examples/python/python+os.system+clear+screen
+
 ## Contents
 
 - [First Time Running Instructions](#First-Time-Running-Instructions)
