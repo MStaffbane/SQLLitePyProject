@@ -9,9 +9,15 @@ Note: Your data will be stored locally.
 
 ## Sources
 
-Code was adapted from the tutorial provided by freeCodeCamp.org: 
+Code was adapted from the tutorial provided by freeCodeCamp.org (credit to John Elder): 
 
 https://www.youtube.com/watch?v=byHcYRpMgI4
+
+Their referred url link to their github:
+
+https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course
+
+A link to their project 
 
 A handy piece of code for clearing the screen provided by Grepper (credit to Expensive Eagle) was found here: 
 
