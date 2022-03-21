@@ -13,9 +13,11 @@ Code was adapted from the tutorial provided by freeCodeCamp.org:
 
 https://www.youtube.com/watch?v=byHcYRpMgI4
 
-A handy piece of code for clearing the screen was found here: 
+A handy piece of code for clearing the screen provided by Grepper (credit to Expensive Eagle) was found here: 
 
 https://www.codegrepper.com/code-examples/python/python+os.system+clear+screen
+
+Comments include these sources within.
 
 ## Contents
 
