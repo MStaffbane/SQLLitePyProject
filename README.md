@@ -9,8 +9,11 @@ Note: Your data will be stored locally.
 
 ## Sources
 
-Code was adapted from the tutorial provided by freeCodeCamp.org: https://www.youtube.com/watch?v=byHcYRpMgI4
-A handy piece of code for clearing the screen was found here: https://www.codegrepper.com/code-examples/python/python+os.system+clear+screen
+Code was adapted from the tutorial provided by freeCodeCamp.org: 
+https://www.youtube.com/watch?v=byHcYRpMgI4
+
+A handy piece of code for clearing the screen was found here: 
+https://www.codegrepper.com/code-examples/python/python+os.system+clear+screen
 
 ## Contents
 
